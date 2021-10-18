@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/victoria-fahey/victoria-CP02/issues"
   },
-  "homepage": "https://github.com/victoria-fahey/victoria-CP02#readme"
+  "homepage": "https://github.com/victoria-fahey/victoria-CP02#readme",
+  "devDependencies": {
+    "jest": "^27.3.0"
+  }
 }
